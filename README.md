@@ -45,5 +45,4 @@ The manifests are designed to be consumed by **ArgoCD** for automated, secure, a
 
 ---
 
-## 📂 Repository Structure (Example)
 
